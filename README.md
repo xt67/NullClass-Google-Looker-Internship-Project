@@ -62,7 +62,7 @@ It was developed using a custom training dataset, with all data cleaning and tra
 
 For questions or collaborations, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rayan-rahman-xt67/)
                                                             [Gmail](rayan.rahman23@mmit.edu.in)
-                                                            [Github]() 
+                                                            [Github](https://github.com/xt67) 
 
 
 
