@@ -59,7 +59,6 @@ It was developed using a custom training dataset, with all data cleaning and tra
 └─ 📄 README.md
 
 
-
 ## 📄 Documentation
 
 - 📘 [Internship Report](docs/internship_report.md)
