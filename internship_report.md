@@ -1,80 +1,70 @@
-Internship Report – Google Looker Studio Sales Dashboard Project
+# 📑 Internship Report – Google Looker Studio Sales Dashboard Project
 
 ## 1. Introduction
-
-This is my 1-month internship at **NullClass EdTech Pvt. Ltd.**, done online from **16 July 2025 to 16 August 2025**. The internship involved real-time dashboard creation and data visualization using **Google Looker Studio**, aided by **SQL**, **Python**, and **MySQL Workbench**. My main target was to visually represent and showcase customer as well as sales data using business-oriented as well as interactive visualizations.
+This report documents my 1-month internship at **NullClass EdTech Pvt. Ltd.**, conducted remotely from **16 July 2025 to 16 August 2025**. The internship focused on real-time data visualization and dashboard development using **Google Looker Studio**, supported by **SQL**, **Python**, and **MySQL Workbench**. My primary goal was to analyze and present sales and customer data using interactive and business-driven visualizations.
 
 ---
 
 ## 2. Background
-
-Real-time business insights from data are an integral part of business decision-making in our competitive business environment of this era. This internship was about making informed insights from transactional data with Looker Studio. I was engaged in activities that were solving real business questions, for instance, customer behavior, product profitability, as well as transaction gaps.
+In today’s competitive business environment, real-time data insights play a key role in decision-making. This internship revolved around transforming raw transactional data into actionable insights using Looker Studio. I worked on tasks that addressed real business questions, such as customer behavior, product profitability, and transaction gaps.
 
 ---
 
 ## 3. Learning Objectives
-
-* Learn to clean, filter, and analyze raw datasets using SQL and Python (Pandas).
-* Construct insightful, engaging dashboards using Google Looker Studio.
-* Understand BI workflows: from acquiring data to graphic storytelling.
-* Improve project reporting and documentation using GitHub.
+- Learn to clean, filter, and analyze raw datasets using SQL and Python (Pandas).
+- Develop interactive and insightful dashboards using Google Looker Studio.
+- Understand BI workflows: from data sourcing to visual storytelling.
+- Improve documentation and project reporting skills using GitHub.
 
 ---
 
 ## 4. Activities and Tasks
 
-### Task 1: Customers Who Paid After Completing Checkout in 2022
+### ✅ Task 1: Customers Who Completed Checkout but Didn’t Pay in 2022  
+- Filtered records where `is_gross = 1`, `is_valid = 0`, and `is_net = 0` using both SQL and Pandas.
+- Retrieved `customer_id` and `registered_date`, ensuring no duplicates.
+- Shared the data with the marketing team for campaign targeting.
 
-* FILTERED RECORDS WHERE `is_gross = 1`, `is_valid = 0`, AND `is_net = 0` Both SQL AND Pandas
-* Retrieved `customer_id` and `registered_date`, with no duplicates.
-* Supplied the data to the advertising team for campaign targeting.
+### ✅ Task 2: Product Category Performance by Net Profit  
+- Analyzed net profit (`after_discount - cogs`) per product category.
+- Created a bar chart with slicers to filter by year.
+- Sorted product categories based on net profitability for stakeholder analysis.
 
-### Task 2: Product Category Performance Based on Net Profit
-
-* Calculated net profit (`after_discount - cogs`) for each product category.
-* Bar chart constructed with slicers for selecting on a year-by-year basis.
-* Sorted product categories in terms of net profitability for stakeholder analysis.
-
-Screenshots of queries and dashboard are provided in the repository.
+Screenshots of the queries and dashboard have been included in the repository.
 
 ---
 
 ## 5. Skills and Competencies Gained
-
-* **Google Looker Studio**: Development of real-time dashboards
-* **SQL & MySQL Workbench**: Data querying and Transformation
-* **Python & Pandas**: Data preprocessing, filtering
-* **Version Control**: GitHub for project tracking and documentation
-* **Business Analysis**: Turn stakeholder needs into graphical solutions
+- **Google Looker Studio**: Real-time dashboard development
+- **SQL & MySQL Workbench**: Data querying and transformation
+- **Python & Pandas**: Data filtering and preprocessing
+- **Version Control**: GitHub for project tracking and documentation
+- **Business Analysis**: Translating stakeholder requirements into visual solutions
 
 ---
 
 ## 6. Feedback and Evidence
+Daily doubt-clearing sessions were conducted during the internship. I resolved all implementation issues by referring to training materials and seeking guidance from the instructor team. Regular updates were shared as part of the internship workflow.
 
-Daily clearing of doubts sessions were conducted throughout the internship. Implementation issues were addressed by going through trainings contents as well as taking cues from the instructor team. Daily progress was shared as a part of internship workflow.
-
-Screenshots of dashboards as well as the PDF of the report (`Google_Looker_Sales_Dashboard.pdf`)
+Dashboard screenshots and the PDF report (`Google_Looker_Sales_Dashboard.pdf`) have been included for evidence.
 
 ---
 
 ## 7. Challenges and Solutions
-
-* **Challenge:** Difficulty in designing the layout of the dashboard as well as
-
-* **Solution:** Reviewed video-recorded trainings and tutorial documents again to solidify learning of dashboard building. This helped to correctly set up filters, slicers, as well as data sources.
+- **Challenge:** Difficulty in structuring the dashboard layout and filter logic.
+- **Solution:** I revisited the recorded training videos and documented tutorials to reinforce my understanding of dashboard creation. This helped me configure the filters, slicers, and data sources effectively.
 
 ---
 
-## 8. Outcome and Impact
-
-* Accomplished an interactive Looker Studio dashboard with up-to-date details on sales, profitability, and customer trends.
-* Accompagné l'équipe commerciale avec des chiffres actionables tels que des taux de décrochage des clients et
-* Included clean, well-organized source code in SQL and Python as a companion to the analysis.
+## 8. Outcomes and Impact
+- Successfully developed an interactive Looker Studio dashboard presenting real-time insights on sales, profitability, and customer trends.
+- Provided the business team with actionable metrics such as customer drop-off data and category-wise net profit.
+- Delivered clean, structured source code using SQL and Python to support the analysis.
 
 ---
 
 ## 9. Conclusion
-
-The internship gave me practical exposure to **Business Intelligence**, **data analytics**, and **dashboarding**. It helped me polish both my analytical as well as my technical skills and helped me learn to derive real business value from raw data. Such skills would be of assistance for my potential career in data analytics as well as AI-based decision-making.
+This internship gave me valuable hands-on experience in **Business Intelligence**, **data analytics**, and **dashboarding**. It helped me sharpen both my technical and analytical skills and taught me how to derive real business value from raw data. I’m confident that these skills will support my future career in data analytics and AI-powered decision-making.
 
 ---
+
