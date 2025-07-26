@@ -28,7 +28,9 @@ It was developed using a custom training dataset, with all data cleaning and tra
 ---
 
 ## 📂 Repository Structure
-<pre><code>📁 Repository Root ├── 📄 README.md ├── 📄 LICENSE ├── 📄 .gitignore ├── 📁 docs/ │ ├── 📄 internship_report.md │ └── 📄 dashboard_documentation.md ├── 📁 evidence/ │ ├── 📄 dashboard_screenshot.png │ ├── 📄 sql_query.png │ ├── 📄 pandas_output.png │ └── 📄 Google_Looker_Sales_Dashboard.pdf ├── 📁 src/ │ ├── 📁 tasks/ │ │ ├── 📄 Task1.csv │ │ ├── 📄 Task1.ipynb │ │ └── 📄 Task1.sql │ ├── 📁 training/ │ │ ├── 📄 customer_detail.csv │ │ ├── 📄 payment_detail.csv │ │ ├── 📄 order_detail.csv │ │ ├── 📄 sku_detail.csv │ │ └── 📄 trainingdata.csv │ ├── 📄 customers_no_payment_2022.csv │ ├── 📄 database.sql │ └── 📄 mergingandanalysis.ipynb </code></pre>
+
+<pre><code>📁 Repository Structure ├── README.md ├── LICENSE ├── .gitignore ├── docs/ │ ├── internship_report.md │ └── dashboard_documentation.md ├── evidence/ │ ├── dashboard_screenshot.png │ ├── sql_query.png │ ├── pandas_output.png │ └── Google_Looker_Sales_Dashboard.pdf ├── src/ │ ├── tasks/ │ │ ├── Task1.csv │ │ ├── Task1.ipynb │ │ └── Task1.sql │ ├── training/ │ │ ├── customer_detail.csv │ │ ├── payment_detail.csv │ │ ├── order_detail.csv │ │ ├── sku_detail.csv │ │ └── trainingdata.csv │ ├── customers_no_payment_2022.csv │ ├── database.sql │ └── mergingandanalysis.ipynb </code></pre>
+
 ## 📄 Documentation
 
 - 📘 [Internship Report](docs/internship_report.md)
