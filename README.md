@@ -29,37 +29,35 @@ It was developed using a custom training dataset, with all data cleaning and tra
 
 ## 📂 Repository Structure
 
-📁 DOCS
-│   ├── dashboard_documentation.md
-│   └── internship_report.md
+├─ 📁 DOCS
+│   ├─ 📄 dashboard_documentation.md
+│   └─ 📄 internship_report.md
+├─ 📁 Evidence
+│   ├─ 📄 Google_Looker_Sales_Dashboard-1.png
+│   ├─ 📄 Google_Looker_Sales_Dashboard-2.png
+│   ├─ 📄 Google_Looker_Sales_Dashboard-3.png
+│   ├─ 📄 Google_Looker_Sales_Dashboard-4.png
+│   ├─ 📄 Google_Looker_Sales_Dashboard.pdf
+│   ├─ 📄 pandas_output.png
+│   └─ 📄 sql_query.png
+├─ 📁 src
+│   ├─ 📁 Task
+│   │   ├─ 📄 customers_no_payment_2022.csv
+│   │   ├─ 📄 Task1.csv
+│   │   ├─ 📄 Task1.ipynb
+│   │   └─ 📄 Task1.sql
+│   └─ 📁 Training
+│       ├─ 📄 customer_detail.csv
+│       ├─ 📄 database.sql
+│       ├─ 📄 mergingandanalysis.ipynb
+│       ├─ 📄 order_detail.csv
+│       ├─ 📄 payment_detail.csv
+│       ├─ 📄 sku_detail.csv
+│       └─ 📄 trainingdata.csv
+├─ 📄 .gitignore
+├─ 📄 LICENSE
+└─ 📄 README.md
 
-📁 Evidence
-│   ├── Google_Looker_Sales_Dashboard.pdf
-│   ├── Google_Looker_Sales_Dashboard.pdf
-│   ├── Google_Looker_Sales_Dashboard.pdf
-│   ├── Google_Looker_Sales_Dashboard.pdf
-│   ├── Google_Looker_Sales_Dashboard.pdf
-│   ├── pandas_output.png
-│   └── sql_query.png
-
-📁 src
-│   📁 Task
-│   │   ├── Task1.csv
-│   │   ├── Task1.ipynb
-│   │   └── Task1.sql
-│   ├── customers_no_payment_2022.csv
-│   📁 Training
-│   │   ├── customer_detail.csv
-│   │   ├── order_detail.csv
-│   │   ├── payment_detail.csv
-│   │   ├── sku_detail.csv
-│   │   └── trainingdata.csv
-│   ├── database.sql
-│   └── mergingandanalysis.ipynb
-
-├── .gitignore
-├── LICENSE
-└── README.md
 
 
 ## 📄 Documentation
