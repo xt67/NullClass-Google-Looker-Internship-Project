@@ -60,9 +60,9 @@ It was developed using a custom training dataset, with all data cleaning and tra
 ---
 
 ## 📬 Contact
-📧 [Gmail](mailto:rayan.rahman23@mmit.edu.in)  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-💻 [GitHub](https://github.com/yourusername)
+📧 [Gmail](mailto:xrahman088@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/%20rayan-rahman-xt67)  
+💻 [GitHub](https://github.com/xt67)
 
 
 
