@@ -28,19 +28,20 @@ It was developed using a custom training dataset, with all data cleaning and tra
 ---
 
 ## 📂 Repository Structure
+
+```
 ├── README.md
 ├── docs/
-│ ├── internship_report.md # Internship report (summary of experience)
-│ └── dashboard_documentation.md # Technical breakdown of the dashboard
+│   ├── internship_report.md         # Internship report (summary of experience)
+│   └── dashboard_documentation.md   # Technical breakdown of the dashboard
 ├── src/
-│ ├── customer_checkout_query.sql # SQL task to find incomplete payments
-│ └── customer_analysis.ipynb # Jupyter notebook for data processing
+│   ├── customer_checkout_query.sql  # SQL task to find incomplete payments
+│   └── customer_analysis.ipynb      # Jupyter notebook for data processing
 ├── evidence/
-│ ├── dashboard_screenshot.png # Screenshot of Looker Studio dashboard
-│ ├── sql_query.png
-│ └── Google_Looker_Sales_Dashboard.pdf
-
----
+│   ├── dashboard_screenshot.png     # Screenshot of Looker Studio dashboard
+│   ├── sql_query.png                # SQL output screenshot
+│   └── Google_Looker_Sales_Dashboard.pdf
+```
 
 ## 📄 Documentation
 
