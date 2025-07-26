@@ -29,14 +29,31 @@ It was developed using a custom training dataset, with all data cleaning and tra
 
 ## 📂 Repository Structure
 
-```
 ├── README.md
+├── LICENSE
+├── .gitignore
 ├── docs/
-│   ├── internship_report.md         # Internship report (summary of experience)
-│   └── dashboard_documentation.md   # Technical breakdown of the dashboard
-├── src/
+│   ├── internship_report.md
+│   └── dashboard_documentation.md
 ├── evidence/
-```
+│   ├── dashboard_screenshot.png
+│   ├── sql_query.png
+│   ├── pandas_output.png
+│   └── Google_Looker_Sales_Dashboard.pdf
+├── src/
+│   ├── tasks/
+│   │   ├── Task1.csv
+│   │   ├── Task1.ipynb
+│   │   ├── Task1.sql
+│   │   └── customers_no_payment_2022.csv
+│   ├── training/
+│   │   ├── customer_detail.csv
+│   │   ├── payment_detail.csv
+│   │   ├── order_detail.csv
+│   │   ├── sku_detail.csv
+│   │   └── trainingdata.csv
+│   ├── database.sql
+│   └── mergingandanalysis.ipynb
 
 ## 📄 Documentation
 
