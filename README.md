@@ -2,8 +2,7 @@
 
 This repository contains the final project for my internship at **NullClass EdTech Pvt. Ltd.** (16 July 2025 – 16 August 2025), focused on building a real-time interactive sales dashboard using **Google Looker Studio**. The dashboard provides key business insights across product categories, customer behavior, and transaction trends.
 
-🔗 **Live Dashboard:** [Click here to view](https://lookerstudio.google.com/s/hNlcRJtDlZU)
-
+🔗 **Live Dashboard:** [Click here to view]https://lookerstudio.google.com/reporting/1414391d-cfa3-4601-926d-5affe0100bdf
 ---
 
 ## 🚀 Project Overview
