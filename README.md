@@ -44,8 +44,8 @@ It was developed using a custom training dataset, with all data cleaning and tra
 ---
 
 ## 📬 Contact
-📧 [Gmail](mailto:xrahman088@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/%20rayan-rahman-xt67)  
+📧 [xrahman088@gmail.com](mailto:xrahman088@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/rayan-rahman-xt67)  
 💻 [GitHub](https://github.com/xt67)
 
 
