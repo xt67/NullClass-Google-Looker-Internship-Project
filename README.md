@@ -29,8 +29,8 @@ It was developed using a custom training dataset, with all data cleaning and tra
 
 ## 📄 Documentation
 
-- 📘 [Internship Report](docs/internship_report.md)
-- 📗 [Dashboard Documentation](docs/dashboard_documentation.md)
+- 📘 [Internship Report](DOCS/internship_report.md)
+- 📗 [Dashboard Documentation](DOCS/dashboard_documentation.md)
 
 ---
 
